@@ -378,7 +378,8 @@ static const KeyID s_numpadTable[] = {
     kKeyKP_6,            0x0036,
     kKeyKP_7,            0x0037,
     kKeyKP_8,            0x0038,
-    kKeyKP_9,            0x0039
+    kKeyKP_9,            0x0039,
+    kKeyMacJISYen,       0x005c // keyremap for Mac JIS keyboard
 };
 
 //

@@ -298,6 +298,9 @@ static const KeyID		kKeyKbdBrightnessUp	= 0xE0BB;
 static const KeyID		kKeyMissionControl	= 0xE0C0;
 static const KeyID		kKeyLaunchpad		= 0xE0C1;
 
+// for mac jis keyboard
+static const KeyID		kKeyMacJISYen		= 0x00A5;
+
 //@}
 
 struct KeyNameMapEntry {
