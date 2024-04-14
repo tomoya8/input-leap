@@ -120,10 +120,8 @@ static const KeyEntry    s_controlKeys[] = {
 
     // JIS keyboards only
     { kKeyMuhenkan, kVK_JIS_Eisu },
-    { kKeyHenkan, kVK_JIS_Kana },
-//    { kKeyMacJISYen, 0x7D },    
-//    { 0x5D, 0x7D },
-//    { 0x7D, 0xa5}
+    { kKeyHenkan, kVK_JIS_Kana }
+
 };
 
 
